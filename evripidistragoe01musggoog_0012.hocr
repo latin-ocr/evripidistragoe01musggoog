@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./evripidistragoe01musggoog_0012.png"; bbox 0 0 1700 2609; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 332 694 1578 788">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 332 694 1578 788">
+     <span class='ocr_line' id='line_1_1' title="bbox 332 694 1578 788; baseline -0.001 -24"><span class='ocrx_word' id='word_1_1' title='bbox 332 711 433 788; x_wconf 57' lang='grc' dir='ltr'><strong>ΤΑ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 475 707 640 765; x_wconf 76' lang='grc' dir='ltr'><strong>ΤοΤ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 679 694 1115 765; x_wconf 75' lang='grc' dir='ltr'><strong>ΔΡΑΜΑΤΟΣ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1149 695 1578 763; x_wconf 72' lang='grc' dir='ltr'><strong>ΠΡΟΣΩΠΑ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 391 927 1054 1752">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 396 927 786 1265">
+     <span class='ocr_line' id='line_1_2' title="bbox 400 927 723 971; baseline -0.015 -1"><span class='ocrx_word' id='word_1_5' title='bbox 400 927 723 971; x_wconf 61' lang='grc' dir='ltr'><strong>ῙΟΛΑΟἳε</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 396 1027 768 1069; baseline -0.019 0"><span class='ocrx_word' id='word_1_6' title='bbox 396 1027 768 1069; x_wconf 70' lang='grc' dir='ltr'><strong>ΚΟΠΡΕΥΣ.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 399 1126 657 1169; baseline -0.023 0"><span class='ocrx_word' id='word_1_7' title='bbox 399 1126 657 1169; x_wconf 70' lang='lat'>101’02·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 399 1217 786 1265; baseline -0.018 0"><span class='ocrx_word' id='word_1_8' title='bbox 399 1217 786 1265; x_wconf 62' lang='lat' dir='ltr'><strong>AHMOQaN.</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 391 1314 1054 1752">
+     <span class='ocr_line' id='line_1_6' title="bbox 397 1314 1054 1369; baseline -0.003 -8"><span class='ocrx_word' id='word_1_9' title='bbox 397 1320 605 1362; x_wconf 78' lang='lat' dir='ltr'>MAKA</span> <span class='ocrx_word' id='word_1_10' title='bbox 624 1318 751 1359; x_wconf 75' lang='lat' dir='ltr'><strong>PIA</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 807 1314 1054 1369; x_wconf 69' lang='grc' dir='ltr'><strong><em>παρθένος.</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 397 1417 781 1461; baseline -0.018 0"><span class='ocrx_word' id='word_1_12' title='bbox 397 1417 781 1461; x_wconf 69' lang='grc' dir='ltr'><strong>ΘΕΡΑΠΩΝ.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 395 1515 770 1557; baseline -0.013 1"><span class='ocrx_word' id='word_1_13' title='bbox 395 1515 770 1557; x_wconf 75' lang='grc' dir='ltr'><strong>ΑΓΓΕΛΟΣ.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 393 1613 796 1654; baseline -0.005 -2"><span class='ocrx_word' id='word_1_14' title='bbox 393 1613 796 1654; x_wconf 76' lang='lat' dir='ltr'>AAKMHNH.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 391 1711 863 1752; baseline -0.006 -1"><span class='ocrx_word' id='word_1_15' title='bbox 391 1711 863 1752; x_wconf 68' lang='lat' dir='ltr'>EYPYzeEYz.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
